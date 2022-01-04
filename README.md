@@ -5,8 +5,8 @@ A Yeoman generator for generating Microservices with SpringBoot
 
 ```
 > npm install -g yo
-> npm install -g generator-kingether
-> yo springboot
+> npm i -g generator-kingether
+> yo kingether
 ```
 
 ## Features
