@@ -1,6 +1,6 @@
 {
   "name": "@kingether/generator-kingether",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Yeoman generator for generating Springboot microservice and microservices",
   "keywords": [
     "yeoman-generator",
