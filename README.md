@@ -36,7 +36,7 @@ You can generate REST API with CRUD operation using the following command:
 
 :high_brightness: You should run the following command from within the generated project folder. 
 
-`myservice> yo springboot:controller Customer --base-path /api/customers`
+`myservice> yo kingether:controller Customer --base-path /api/customers`
 
 This will generate:
 * JPA entity
