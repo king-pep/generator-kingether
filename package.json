@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sivaprasadreddy/generator-springboot.git"
+    "url": "git+https://github.com/king-pep/generator-springboot.git"
   },
-  "author": "K Siva Prasad Reddy <sivaprasadreddy.k@gmail.com>",
+  "author": "Abel Morris Ben <abelmorrisben@icloud.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sivaprasadreddy/generator-springboot/issues"
+    "url": "https://github.com/king-pep/springboot-generator/issues"
   },
-  "homepage": "https://github.com/sivaprasadreddy/generator-springboot",
+  "homepage": "https://github.com/king-pep/generator-springboot",
   "dependencies": {
     "chalk": "4.1.0",
     "lodash": "4.17.20",
