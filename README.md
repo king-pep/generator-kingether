@@ -5,7 +5,7 @@ A Yeoman generator for generating Microservices with SpringBoot
 
 ```
 > npm install -g yo
-> npm install -g generator-springboot
+> npm install -g generator-kingether
 > yo springboot
 ```
 
@@ -59,16 +59,6 @@ However, there are certain JHipster features that does not fit for my preference
 4. I prefer Flyway to Liquibase
 5. I like to have only minimum and required configuration ie no AsyncConfiguration, LocaleConfiguration, CacheConfiguration, Logstash Logging etc.
 6. I like .properties over .yml
-
-## Local Development Setup
-
-```
-> git clone https://github.com/sivaprasadreddy/generator-springboot.git
-> cd generator-springboot
-> npm install 
-> npm link
-> yo springboot
-```
 
 ## Changelog
 
