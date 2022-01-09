@@ -78,7 +78,3 @@ However, there are certain JHipster features that does not fit for my preference
 ### Version 0.0.8
 * Configured Checkstyle, PMD, SonarQube, google-java-format plugins
 * Added Localstack autoconfiguration support
-
-### Version 0.0.9
-
-* Changed of name . generator-springboot -> generator-kingether

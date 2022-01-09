@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/king-pep/generator-springboot.git"
+    "url": "git+https://github.com/king-pep/generator-kingether.git"
   },
   "author": "Abel Morris Ben <abelmorrisben@icloud.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/king-pep/springboot-generator/issues"
+    "url": "https://github.com/king-pep/generator-kingether/issues"
   },
-  "homepage": "https://github.com/king-pep/generator-springboot",
+  "homepage": "https://github.com/king-pep/generator-kingether",
   "dependencies": {
     "chalk": "4.1.0",
     "lodash": "4.17.20",
