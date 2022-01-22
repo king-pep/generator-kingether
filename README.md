@@ -29,7 +29,7 @@ A Yeoman generator for generating Microservices with SpringBoot
 ### Generate SpringBoot Microservice
 
 ![Microservice Generation](docs/server-generation-1.png)
-![Microservice Generation](docs/server-generation-2.jpg)
+![Microservice Generation](docs/server-generation-2.png)
 
 ### Generate REST API with CRUD operations
 You can generate REST API with CRUD operation using the following command:
