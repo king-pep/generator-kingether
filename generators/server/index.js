@@ -203,7 +203,7 @@ module.exports = class extends BaseGenerator {
             'config/Initializer.java',
             'config/logging/Loggable.java',
             'config/logging/LoggingAspect.java',
-            'utils/AppConstants.java'
+            'utils/Constants.java'
         ];
         if(configOptions.features.includes("localstack")) {
             mainJavaTemplates.push('config/AwsConfig.java');
